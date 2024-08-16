@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/karthik/CLionProjects/RubiksCubeSolver/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3tgLx1"
-      binary: "/home/karthik/CLionProjects/RubiksCubeSolver/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3tgLx1"
+      source: "/home/RubiksCubeSolver-master/CLionProjects/RubiksCubeSolver/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3tgLx1"
+      binary: "/home/RubiksCubeSolver-master/CLionProjects/RubiksCubeSolver/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3tgLx1"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
