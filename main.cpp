@@ -12,7 +12,7 @@
 using namespace std;
 
 int main() {
-    string fileName = "/home/karthik/CLionProjects/RubikCubeSolver/DBS/cornerDepth5V1.txt";
+    string fileName = "/home/RubiksCubeSolver-master/CLionProjects/RubikCubeSolver/DBS/cornerDepth5V1.txt";
 
     RubikCubeBitBoardRep cube;
     auto shuffleMoves = cube.RandomShuffle(10);
