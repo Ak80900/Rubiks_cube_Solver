@@ -1,4 +1,4 @@
-# Install script for directory: /home/karthik/CLionProjects/RubiksCubeSolver
+# Install script for directory: /home/RubiksCubeSolver-master/CLionProjects/RubiksCubeSolver
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
