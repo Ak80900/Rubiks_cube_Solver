@@ -1,5 +1,5 @@
 //
-// Created by karthik on 10/3/24.
+// Created by Ak80900 on 16/08/24.
 //
 
 #include "RubikCube.h"
